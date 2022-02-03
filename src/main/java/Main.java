@@ -5,6 +5,8 @@ public class Main {
         System.out.println("Удалил второй коммит");
         System.out.println("еще один коммит в основном потоке");
         System.out.println("1");
+        System.out.println("2");
+
 
     }
 }
