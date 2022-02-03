@@ -4,6 +4,7 @@ public class Main {
         System.out.println("Создал первый коммит");
         System.out.println("Удалил второй коммит");
         System.out.println("еще один коммит в основном потоке");
+        System.out.println("1");
 
     }
 }
